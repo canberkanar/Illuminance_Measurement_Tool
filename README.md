@@ -16,7 +16,7 @@ The application adds the following functionalities on top of similar products av
 
 ### Software Architecture
 <p align="center">
-  <img src="documents/diagram.png" width="400" height="300" />
+  <img src="documents/diagram.png" width="520" height="375" />
 </p>
 
 
