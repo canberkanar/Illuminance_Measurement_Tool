@@ -12,7 +12,7 @@ An Android Application which uses the illumination sensor of the device to evalu
 The application adds the following functionalities on top of similar products available on Google Play Store:
 - Consists of a pre-defined local database with environment types and the healthy illumination intervals for each.
 - Allows user to create/remove environments and modify existing parameters.
-- Evaluates whether a medium is ideal and if not, issues a warning with a sound and haptic feedback.
+- Evaluates whether a medium is ideal and if not, issues a warning with sound and haptic feedback.
 
 ### Software Architecture
 <p align="center">
