@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Aydınlık Seviyesi Ölçüm Aracı</string>
+    <string name="room_spinner_title">Oda Tipini Seçiniz</string>
+    <string name="start_button_text">Start</string>
+    <string name="settings_button_text">Ayarlar</string>
+
+    <string name="start_sensor_title">Aydınlık Şiddeti(lx)</string>
+    <string name="start_room_condition_title">Aydınlatma Kalitesi</string>
+
+    <string name="İllumination_quality_good">İyi</string>
+    <string name="İllumination_quality_low">Düşük</string>
+    <string name="İllumination_quality_high">Yüksek</string>
+
+
+    <string name="settings_title">Room Settings</string>
+    <string name="settings_button_add">Ekle</string>
+    <string name="settings_button_remove">Sil</string>
+    <string name="settings_button_update">Güncelle</string>
+    <string name="settings_button_back">Geri</string>
+
+    <string name="dialog_cancel">İPTAL</string>
+    <string name="dialog_finish">TAMAMLA</string>
+
+    <string name="dialog_add_title">Yeni Oda Tipi Ekleme</string>
+    <string name="dialog_add_room_name">Oda İsmi</string>
+    <string name="dialog_add_room_min_light_treshold">Min Aydınlık Eşik Değeri(lx)</string>
+    <string name="dialog_add_room_max_light_treshold">Max Aydınlık Eşik Değeri(lx)</string>
+
+    <string name="dialog_update_title">Oda Tipi Güncelleme</string>
+    <string name="dialog_update_room_name">Oda İsmi</string>
+    <string name="dialog_update_room_min_light_treshold">Min Aydınlık Eşik Değeri(lx)</string>
+    <string name="dialog_update_room_max_light_treshold">Max Aydınlık Eşik Değeri(lx)</string>
+
+    <string name="dialog_remove_title">Oda Tipi Silme</string>
+
+
+
+    <string name="empty_edittext">Devam Etmeden Önce Gerekli Tüm Değişkenleri Giriniz</string>
+
+    <string name="database_addRoom_success">Oda Başarıyla Eklendi!</string>
+    <string name="database_addRoom_failure">Oda Ekleme işlemi Başarısız!</string>
+    <string name="database_updateRoom_success">Oda Başarıyla Güncellendi!</string>
+    <string name="database_updateRoom_failure">Oda Güncelleme İşlemi Başarısız!</string>
+    <string name="database_removeRoom_success">Oda Başarıyla Silindi!</string>
+    <string name="database_removeRoom_failure">Oda Silme İşlemi Başarısız!</string>
+
+    <string name="course">BLM402 Android İşletim Sistemi ile Uygulama Geliştirme</string>
+    <string name="university">Ankara Üniversitesi Bilgisayar Mühendisliği Bölümü</string>
+    <string name="about">BLM402 Android İşletim Sistemi ile Uygulama Geliştirme dersi kapsamında geliştirilen Aydınlık Seviyesi Ölçüm Aracı
+    ile, çeşitli ortamların aydınlık seviyelerinin cihazın aydınlık sensörü aracılığıyla ölçülmesi ve ortamın özelliğine göre belirlenmiş,
+        bilimsel asgari ve azami değerlerin arasında olup olmadığının belirlenmesi hedeflenmiştir. Gerçekleştirilen değerlendirmenin sonucunda,
+        kullanıcıya ortamın aydınlık miktarının uygun olup olmadığı, yapılan sesli bildirim ve ekran aracılığıyla iletilmektedir.
+        Uygulama ile kişilerin göz sağlığının korunması ve enerji tasarrufu yapılması hedeflenmektedir.
+    </string>
+
+    <string name="instructions">Doğru ölçüm için cihaz sensörünü ışık kaynağına direkt olarak 1 metre uzaklıktan tutunuz.</string>
+
+
+</resources>

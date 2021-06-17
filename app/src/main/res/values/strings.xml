@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Illumination Degree Measurement Tool</string>
+    <string name="room_spinner_title">Choose Room Type</string>
+    <string name="start_button_text">Start</string>
+    <string name="settings_button_text">Settings</string>
+
+    <string name="start_sensor_title">Light Intensity(lx)</string>
+    <string name="start_room_condition_title">Illumination Quality</string>
+
+    <string name="İllumination_quality_good">Good</string>
+    <string name="İllumination_quality_low">Low</string>
+    <string name="İllumination_quality_high">High</string>
+
+    <string name="settings_title">Room Settings</string>
+    <string name="settings_button_add">Add</string>
+    <string name="settings_button_remove">Remove</string>
+    <string name="settings_button_update">Update</string>
+    <string name="settings_button_back">Back</string>
+
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="dialog_finish">FINISH</string>
+
+
+    <string name="dialog_add_title">Add New Room Type</string>
+    <string name="dialog_add_room_name">Room Name</string>
+    <string name="dialog_add_room_min_light_treshold">Min Light Treshold(lx)</string>
+    <string name="dialog_add_room_max_light_treshold">Max Light Treshold(lx)</string>
+
+
+    <string name="dialog_update_title">Update Room Parameters</string>
+    <string name="dialog_update_room_name">Room Name</string>
+    <string name="dialog_update_room_min_light_treshold">Min Light Treshold(lx)</string>
+    <string name="dialog_update_room_max_light_treshold">Max Light Treshold(lx)</string>
+
+    <string name="dialog_remove_title">Remove Room Type</string>
+
+
+    <string name="empty_edittext">Fill Out All Variables Before Preceding</string>
+
+    <string name="database_addRoom_success">Room Added Successfully!</string>
+    <string name="database_addRoom_failure">Room Adding Operation Failed!</string>
+    <string name="database_updateRoom_success">Room Updated Successfully!</string>
+    <string name="database_updateRoom_failure">Room Updating Operation Failed!</string>
+    <string name="database_removeRoom_success">Room Removed Successfully!</string>
+    <string name="database_removeRoom_failure">Room Removing Operation Failed!</string>
+
+    <string name="author">A. Canberk ANAR</string>
+    <string name="course">BLM402 Android Operating System Application Development</string>
+    <string name="university">Ankara University Department of Computer Engineering</string>
+    <string name="about">With Illumination Degree Measurement Tool, developed in the scope of BLM402 Android Operating System Application Development course,
+    measurement of the Illumination Degrees of specific environments and evaluation of the healthiness of the environment illumination was aimed. During evaluation,
+        illumination values obtained from the device sensor is compared with scientifically recommended values. The results of the evaluation is presented to the user via
+        the screen and speakers. With the application, it is targeted to preserve the eye healthiness of the user and reducing energy consumption.
+    </string>
+
+    <string name="instructions">For accurate measurement, hold the device sensor directly pointed to the light source from 1 Meter Distance.</string>
+
+</resources>
